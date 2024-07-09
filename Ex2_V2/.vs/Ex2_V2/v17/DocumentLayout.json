@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liviu\\source\\repos\\Ex2_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8824E3E-2914-44F6-9774-0DE12A0ECEBE}|Ex2_V2\\Ex2_V2.csproj|c:\\users\\liviu\\source\\repos\\ex2_v2\\ex2_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8824E3E-2914-44F6-9774-0DE12A0ECEBE}|Ex2_V2\\Ex2_V2.csproj|solutionrelative:ex2_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8824E3E-2914-44F6-9774-0DE12A0ECEBE}|Ex2_V2\\Ex2_V2.csproj|c:\\users\\liviu\\source\\repos\\ex2_v2\\ex2_v2\\bouqet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8824E3E-2914-44F6-9774-0DE12A0ECEBE}|Ex2_V2\\Ex2_V2.csproj|solutionrelative:ex2_v2\\bouqet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8824E3E-2914-44F6-9774-0DE12A0ECEBE}|Ex2_V2\\Ex2_V2.csproj|c:\\users\\liviu\\source\\repos\\ex2_v2\\ex2_v2\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8824E3E-2914-44F6-9774-0DE12A0ECEBE}|Ex2_V2\\Ex2_V2.csproj|solutionrelative:ex2_v2\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8824E3E-2914-44F6-9774-0DE12A0ECEBE}|Ex2_V2\\Ex2_V2.csproj|c:\\users\\liviu\\source\\repos\\ex2_v2\\ex2_v2\\flowershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8824E3E-2914-44F6-9774-0DE12A0ECEBE}|Ex2_V2\\Ex2_V2.csproj|solutionrelative:ex2_v2\\flowershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlowerShop.cs",
+              "DocumentMoniker": "C:\\Users\\liviu\\source\\repos\\Ex2_V2\\Ex2_V2\\FlowerShop.cs",
+              "RelativeDocumentMoniker": "Ex2_V2\\FlowerShop.cs",
+              "ToolTip": "C:\\Users\\liviu\\source\\repos\\Ex2_V2\\Ex2_V2\\FlowerShop.cs",
+              "RelativeToolTip": "Ex2_V2\\FlowerShop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:12:18.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bouqet.cs",
+              "DocumentMoniker": "C:\\Users\\liviu\\source\\repos\\Ex2_V2\\Ex2_V2\\Bouqet.cs",
+              "RelativeDocumentMoniker": "Ex2_V2\\Bouqet.cs",
+              "ToolTip": "C:\\Users\\liviu\\source\\repos\\Ex2_V2\\Ex2_V2\\Bouqet.cs",
+              "RelativeToolTip": "Ex2_V2\\Bouqet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:50:26.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\Users\\liviu\\source\\repos\\Ex2_V2\\Ex2_V2\\Flower.cs",
+              "RelativeDocumentMoniker": "Ex2_V2\\Flower.cs",
+              "ToolTip": "C:\\Users\\liviu\\source\\repos\\Ex2_V2\\Ex2_V2\\Flower.cs",
+              "RelativeToolTip": "Ex2_V2\\Flower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:47:12.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liviu\\source\\repos\\Ex2_V2\\Ex2_V2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2_V2\\Program.cs",
+              "ToolTip": "C:\\Users\\liviu\\source\\repos\\Ex2_V2\\Ex2_V2\\Program.cs",
+              "RelativeToolTip": "Ex2_V2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:26:46.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
